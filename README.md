@@ -8,7 +8,7 @@
 
 ## Overview
 
-CHIMP constructs a full-dimensional PES as:
+CHIMP constructs a full-dimensional PES as follows:
 
 $$V(R_{12}, R_{13}, R_{23}) = V_2^{AB} + V_2^{AC} + V_2^{BC} + V_3 + V_\text{lr} + E_0$$
 
